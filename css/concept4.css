@@ -1434,8 +1434,8 @@ html.js-ready [data-anim].is-inview {
   color: #101010;
 }
 .mobile-bottom-bar a:last-child {
-  background: var(--garnet);
-  color: #ffffff;
+  background: #b8ff3c;
+  color: #101010;
 }
 
 .policy-body {
